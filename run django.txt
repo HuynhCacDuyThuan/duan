@@ -1,0 +1,4 @@
+cd /d D:\DA\DATT2\test\backend
+venv\Scripts\activate
+cd music_api
+python manage.py runserver
